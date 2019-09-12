@@ -20,7 +20,7 @@
 #include <stdint.h>
 #include "ST7735.h"
 #include "PLL.h"
-#include "../inc/tm4c123gh6pm.h"
+#include "tm4c123gh6pm.h"
 #include "Lab1.h"
 
 void DelayWait10ms(uint32_t n);
